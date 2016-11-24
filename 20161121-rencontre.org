@@ -1,4 +1,4 @@
-Réunion du 21 Novembre 2016 à Lyon
+Réunion du 21 Novembre 2016 à Lyon.
 
 * Participant.e.s
 Marie Duflot-Kremer, Nathalie Revol, Timothée Pecatte, ? (en stage
@@ -332,7 +332,7 @@ Jeu pour apprendre à manipuler des variables sur applications mobiles.
     pour que ça se voit un peu moins
   - On peut utiliser une feuille à trou pour trouver les pixels du
     fond qui ont du sens, et mettre du bruit sur le reste du fond 
-
+    
 * Ghostbusters sans risque (JM et Anne)
 ** Matériel
 - des grilles avec beaucoup de trous possibles dedans
@@ -359,7 +359,7 @@ Jeu pour apprendre à manipuler des variables sur applications mobiles.
 - Il y a beaucoup de grilles intéressantes proposées, qui servent de
   contre-exemple aux mauvais algos souvent proposés
 
-
+  
 
 * Réflexion pour la formation pour les profs: ressources ? idées ?
 - pixees science participative compte youtube : les videos avec Marie
