@@ -6,7 +6,7 @@ avec Timothée), Sylvie Alayrangues, Natacha Portier, Yann Secq,
 Philippe Marquet, Martin Quinson, Jean-Marc Vincent, Anne Rasse,
 Benjamin Wack, Pascal Lafourcade, Christian Bernigaot, Aline Parreau.
 
-* Magie rebranchée par Christian Bernigaot IREM de Clermont
+* Magie rebranchée par Christian Bernigot IREM de Clermont
 - D'après la célèbre activité de CS unplugged.
 - Création d'une petite interface graphique, avec le module Kivy
   https://kivy.org/ pour python (fonctionne sur tablette).
